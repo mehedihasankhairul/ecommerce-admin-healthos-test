@@ -1,0 +1,382 @@
+{
+  "orders": [
+    {
+      "id": "320174",
+      "o_at": "Today, 10:13 PM",
+      "quantity": 4,
+      "products": [
+        {
+          "id": "product_two",
+          "name": "Sample product two",
+          "img": "",
+          "price": 50,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000001"
+      },
+      "pin_code": 414716,
+      "type": "cod",
+      "payments": {
+        "item": 106,
+        "delivery": 20,
+        "grand": 126
+      },
+      "status": "accepted"
+    },
+    {
+      "id": "310174",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 1,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        },
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 20,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000011"
+      },
+      "pin_code": 415716,
+      "type": "paid",
+      "payments": {
+        "item": 472,
+        "delivery": 20,
+        "grand": 492
+      },
+      "status": "pending"
+    },
+    {
+      "id": "320164",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        },
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 61,
+          "quantity": 2
+        },
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 15,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000111"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "329994",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000111"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "321174",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000111"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "47814",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000111"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "47814",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01000000111"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "47814",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 3,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "01455"
+      },
+      "pin_code": 412716,
+      "type": "cod",
+      "payments": {
+        "item": 20,
+        "delivery": 20,
+        "grand": 40
+      },
+      "status": "shipped"
+    },
+    {
+      "id": "47814",
+      "o_at": "Monday, 08:13 AM",
+      "quantity": 2,
+      "products": [
+        {
+          "id": "capsule",
+          "name": "Sample product five",
+          "img": "",
+          "price": 40,
+          "quantity": 2
+        }
+      ],
+      "customer": {
+        "name": "Customer Name",
+        "address": "House-no, City, State",
+        "mobile": "0175233"
+      },
+      "pin_code": 414816,
+      "type": "cod",
+      "payments": {
+        "item": 324,
+        "delivery": 20,
+        "grand": 344
+      },
+      "status": "accepted"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "Ointment",
+      "name": "Clovate 10mg",
+      "img": "",
+      "price": 50,
+      "active": true,
+      "stock": 6
+    },
+    {
+      "id": "capsule",
+      "name": "Omiprazole 20mg",
+      "img": "",
+      "price": 90,
+      "active": true,
+      "stock": 4
+    },
+    {
+      "id": "seclo",
+      "name": "Seeclo 20",
+      "img": "",
+      "price": 24,
+      "active": true,
+      "stock": 20
+    },
+    {
+      "id": "Square",
+      "name": "Ace Plus 500mg",
+      "img": "",
+      "price": 80,
+      "active": true,
+      "stock": 0
+    },
+    {
+      "id": "Paracetamol",
+      "name": "Paracetamol 500mg",
+      "img": "",
+      "price": 12,
+      "active": false,
+      "stock": 6
+    }
+  ],
+
+  "payments": [
+    {
+      "order_id": "10022",
+      "amount": 2245,
+      "status": {
+        "done": true,
+        "i_at": "24/03/2022, 07:34 PM"
+      }
+    },
+    {
+      "order_id": "10023",
+      "amount": 5884,
+      "status": {
+        "done": true,
+        "i_at": "20/03/2022, 09:12 PM"
+      }
+    },
+    {
+      "order_id": "320164",
+      "amount": 309,
+      "status": {
+        "done": false,
+        "i_at": "---"
+      }
+    },
+    {
+      "order_id": "329994",
+      "amount": 27,
+      "status": {
+        "done": true,
+        "i_at": "24/03/2022, 07:34 PM"
+      }
+    },
+    {
+      "order_id": "10024",
+      "amount": 3553,
+      "status": {
+        "done": false,
+        "i_at": "---"
+      }
+    },
+    {
+      "order_id": "10025",
+      "amount": 4555,
+      "status": {
+        "done": false,
+        "i_at": "---"
+      }
+    }
+  ],
+
+  "customers": [
+    { "name": "Amanullah Shah", "orders": 40 },
+    { "name": "Amina Begum", "orders": 5 },
+    { "name": "Shanto Khan", "orders": 4 },
+    { "name": "Tanvir Rana", "orders": 15 },
+    { "name": "Abdul Karim", "orders": 51 }
+  ],
+
+  "account": {
+    "fake_jwt_token": "",
+    "name": "healthOs Admin",
+    "online": true,
+    "overview": {
+      "orders": 24,
+      "total_sales": 1300,
+      "store_views": 140,
+      "products_views": 2412
+    }
+  }
+}
